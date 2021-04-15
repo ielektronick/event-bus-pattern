@@ -1,0 +1,29 @@
+{
+  "name": "publish-subscribe-pattern",
+  "version": "1.0.0",
+  "description": "An example of publish-subscribe pattern implementation in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ielektronick/publish-subscribe-pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ielektronick/publish-subscribe-pattern/issues"
+  },
+  "homepage": "https://github.com/ielektronick/publish-subscribe-pattern#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-typescript": "^7.13.0",
+    "@types/jest": "^26.0.22",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.4",
+    "typescript": "^4.2.4"
+  }
+}
